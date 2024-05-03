@@ -37,7 +37,7 @@ public class FirstTestCase {
 		if ( pagetitle.equals("Your Store")) {
 			System.out.println("Pass");
 		}else {
-			System.out.println("Fail1"); 
+			System.out.println("Fail1cd "); 
 		}
 		
 		//close browser
